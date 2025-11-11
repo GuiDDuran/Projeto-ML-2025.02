@@ -1,7 +1,5 @@
 # Projeto de Machine Learning - Previsão de Consumo de Energia Industrial
 
-**Status:** 🚧 Em Andamento 🚧
-
 Este repositório contém o desenvolvimento do Trabalho Final (AP2) da disciplina de **Projeto de Machine Learning** do curso de **CDIA**.
 
 ## 🎯 Objetivo do Projeto
