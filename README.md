@@ -8,8 +8,7 @@ Este repositório contém o desenvolvimento do Trabalho Final (AP2) da disciplin
 
 O modelo de classificação foi implementado em uma aplicação web interativa usando R/Shiny. Você pode testar o preditor em tempo real no link abaixo:
 
-**[➡️ Acesse o App de Previsão aqui](https://SEU-LINK-AQUI.shinyapps.io/seu-app)**
-*(**Nota:** Por favor, substitua o link acima pelo URL real da sua aplicação Shiny.)*
+**[➡️ Acesse o App de Previsão aqui](https://guiduran.shinyapps.io/Projeto-ML/)**
 
 ## 🎯 Objetivo do Projeto
 
