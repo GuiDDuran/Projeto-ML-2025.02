@@ -50,8 +50,8 @@ Para executar a aplicação interativa localmente:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL-DO-SEU-REPOSITORIO]
-    cd [NOME-DO-REPOSITORIO]/3_Shiny_App
+    git clone https://github.com/GuiDDuran/Projeto-ML-2025.02.git
+    cd https://github.com/GuiDDuran/Projeto-ML-2025.02.git/3_Shiny_App
     ```
 
 2.  **Abra o RStudio** e defina o diretório de trabalho para a pasta `3_Shiny_App`.
