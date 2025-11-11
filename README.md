@@ -1,7 +1,5 @@
 # Projeto de ML - Classificação do Nível de Consumo de Energia Industrial
 
-**Status:** 🚀 Concluído / Em Apresentação 🚀
-
 Este repositório contém o desenvolvimento do Trabalho Final (AP2) da disciplina de **Projeto de Machine Learning** do curso de **CDIA**. O projeto foca na construção de um modelo de classificação para prever o nível de consumo de energia do setor industrial.
 
 ## 🚀 Aplicação Interativa (Shiny)
