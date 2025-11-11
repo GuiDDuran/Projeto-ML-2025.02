@@ -40,27 +40,6 @@ Nossa análise busca responder à seguinte questão central:
     * O modelo treinado (`.rds`) e os parâmetros de normalização foram salvos e são carregados pela aplicação Shiny.
     * O app recebe as entradas do usuário, aplica os mesmos passos de pré-processamento (normalização e one-hot encoding) e utiliza o modelo para prever a classe e suas probabilidades.
 
-## 📁 Estrutura do Repositório
-
-/
-├── 1_Dados/
-│   └── Dados_abertos_Consumo_Mensal.xlsx
-│
-├── 2_Notebooks/
-│   └── script_treinamento_modelo.R  (ou .Rmd)
-│
-├── 3_Shiny_App/
-│   ├── app.R
-│   ├── modelo_arvore.rds               
-│   ├── normalizacao_consumidores.rds   
-│   └── colnames_dummies.rds            
-│
-├── 4_Artigo/
-│   ├── artigo_final.pdf
-│   └── artigo_final.tex
-│
-└── README.md
-
 ## 👨‍💻 Integrantes
 
 * João Gabriel de Castro Rodriguez
