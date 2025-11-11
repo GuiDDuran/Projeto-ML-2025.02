@@ -43,7 +43,24 @@ Nossa análise busca responder à seguinte questão central:
 
 ## 📁 Estrutura do Repositório
 
-/ ├── 1_Dados/ # Dataset original (Dados_abertos_Consumo_Mensal.xlsx) ├── 2_Notebooks/ # Script R de tratamento, análise e treinamento do modelo ├── 3_Shiny_App/ # Código-fonte da aplicação Shiny (app.R) ├── 4_Artigo/ # Artigo científico final (PDF, .tex) ├── modelo_arvore.rds # O modelo de árvore de decisão treinado ├── normalizacao_consumidores.rds # Parâmetros de normalização (média, sd) ├── colnames_dummies.rds # Vetor com nomes das colunas para one-hot encoding └── README.md # Este arquivo
+/
+├── 1_Dados/
+│   └── Dados_abertos_Consumo_Mensal.xlsx
+│
+├── 2_Notebooks/
+│   └── script_treinamento_modelo.R  (ou .Rmd)
+│
+├── 3_Shiny_App/
+│   ├── app.R
+│   ├── modelo_arvore.rds               
+│   ├── normalizacao_consumidores.rds   
+│   └── colnames_dummies.rds            
+│
+├── 4_Artigo/
+│   ├── artigo_final.pdf
+│   └── artigo_final.tex
+│
+└── README.md
 
 ## 👨‍💻 Integrantes
 
