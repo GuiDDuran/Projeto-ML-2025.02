@@ -18,7 +18,7 @@ Nossa análise busca responder à seguinte questão central:
 
 > **É possível *classificar* o nível de consumo de energia industrial (Baixo, Médio ou Alto) com base em variáveis como localização (UF), número de consumidores, tipo de contrato (Cativo/Livre) e época do ano (mês/estação)?**
 
-## 📊 Dataset e Metodologia
+## Dataset e Metodologia
 
 1.  **Fonte:** Empresa de Pesquisa Energética (EPE) - Dados Abertos de Consumo Mensal.
 2.  **Filtro:** A análise foi focada apenas nos registros de `classe` == "Industrial".
@@ -38,7 +38,7 @@ Nossa análise busca responder à seguinte questão central:
     * O modelo treinado (`.rds`) e os parâmetros de normalização foram salvos e são carregados pela aplicação Shiny.
     * O app recebe as entradas do usuário, aplica os mesmos passos de pré-processamento (normalização e one-hot encoding) e utiliza o modelo para prever a classe e suas probabilidades.
 
-## 👨‍💻 Integrantes
+## Integrantes
 
 * João Gabriel de Castro Rodriguez
 * Isabella Vieira
