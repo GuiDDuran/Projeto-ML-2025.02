@@ -2,17 +2,17 @@
 
 Este repositório contém o desenvolvimento do Trabalho Final (AP2) da disciplina de **Projeto de Machine Learning** do curso de **CDIA**. O projeto foca na construção de um modelo de classificação para prever o nível de consumo de energia do setor industrial.
 
-## 🚀 Aplicação Interativa (Shiny)
+## Aplicação Interativa (Shiny)
 
 O modelo de classificação foi implementado em uma aplicação web interativa usando R/Shiny. Você pode testar o preditor em tempo real no link abaixo:
 
 **[➡️ Acesse o App de Previsão aqui](https://guiduran.shinyapps.io/Projeto-ML/)**
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 O objetivo foi aplicar conceitos de aprendizado de máquina supervisionado para desenvolver um modelo de **classificação** capaz de prever o **nível de consumo** (Baixo, Médio ou Alto) do setor industrial, com base em dados históricos da Empresa de Pesquisa Energética (EPE).
 
-## ❓ Questão de Pesquisa
+## Questão de Pesquisa
 
 Nossa análise busca responder à seguinte questão central:
 
@@ -41,6 +41,6 @@ Nossa análise busca responder à seguinte questão central:
 ## 👨‍💻 Integrantes
 
 * João Gabriel de Castro Rodriguez
-* Isabela Vieira
+* Isabella Vieira
 * Guilherme Duran Duran
 * Gabriel Franklin Monteiro
