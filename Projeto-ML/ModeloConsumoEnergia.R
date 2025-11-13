@@ -81,8 +81,8 @@ df_industrial <- df_industrial %>%
     classeconsumo = discretize(
       consumo,
       method = "frequency",
-      breaks = 3,
-      labels = c("Baixo", "Medio", "Alto")
+      breaks = 5,
+      labels = c("Muito Baixo", "Baixo", "Medio", "Alto", "Muito Alto")
     )
   )
 

@@ -35,7 +35,7 @@ ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
       h4("Insira as informações abaixo:"),
-      numericInput("consumidores", "Número de Consumidores:", value = 50000, min = 0),
+      numericInput("consumidores", "Número de Consumidores:", value = 5000, min = 0),
       selectInput("uf", "UF:", 
                   choices = c("AC","AL","AM","AP","BA","CE","DF","ES","GO","MA",
                               "MG","MS","MT","PA","PB","PE","PI","PR","RJ","RN",
